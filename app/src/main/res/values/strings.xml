@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Сахалыы бириэмэ</string>
+
+    <string name="word_exact">чаас</string>
+    <string name="word_half">аҥаар</string>
+    <string name="word_past">ааста</string>
+    <string name="word_before">буолуо</string>
+    <string name="word_before_2">баар</string>
+
+    <string-array name="hours_in_past">
+        <item>УОН ИККИНИ</item>
+        <item>БИИРИ</item>
+        <item>ИККИНИ</item>
+        <item>YhҮ</item>
+        <item>ТҮӨРДҮ</item>
+        <item>БИЭhИ</item>
+        <item>АЛТАНЫ</item>
+        <item>СЭТТЭНИ</item>
+        <item>А5ЫhЫ</item>
+        <item>ТО5УhУ</item>
+        <item>УОНУ</item>
+        <item>УОН БИИРИ</item>
+    </string-array>
+
+    <string-array name="hours">
+        <item>УОН ИККИ</item>
+        <item>БИИР</item>
+        <item>ИККИ</item>
+        <item>YС</item>
+        <item>ТҮӨРТ</item>
+        <item>БИЭС</item>
+        <item>АЛТА</item>
+        <item>СЭТТЭ</item>
+        <item>А5ЫС</item>
+        <item>ТО5УС</item>
+        <item>УОН</item>
+        <item>УОН БИИР</item>
+    </string-array>
+
+    <string-array name="minute_decades">
+        <item>УОН</item>
+        <item>СҮҮРБЭ</item>
+        <item>ОТУТ</item>
+    </string-array>
+
+    <string-array name="minute_decimals">
+        <item>БИИР</item>
+        <item>ИККИ</item>
+        <item>ҮС</item>
+        <item>ТҮӨРТ</item>
+        <item>БИЭС</item>
+        <item>АЛТА</item>
+        <item>СЭТТЭ</item>
+        <item>А5ЫС</item>
+        <item>ТО5УС</item>
+    </string-array>
+
+</resources>
